@@ -1,6 +1,6 @@
 <!-- Level 1: Simple bio and stats -->
 
-### Hi, I am Nkqubela!👋
+### Hi, I am Opiwe!👋
 
 I am a Full Stack Developer with a strong passion for MongoDB, React.js, Node.js, RDBMS, REST API, and PostgreSQL.
 
